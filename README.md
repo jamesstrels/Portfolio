@@ -1,13 +1,13 @@
 # Portfolio
 - [About me](#about-me)
-- CV
-- Skills
-- Tools
-- Courses
-- Examples of my work
-  * Test cases and work in TestRail
-  * Bug reports and work in Jira
-- Books I have read
+- [CV](#cv)
+- [Skills](#skills)
+- [Tools](#tools)
+- [Courses](#courses)
+- [Examples of my work](#examples-of-my-work)
+  * [Test cases and work in TestRail](#Test-cases-and-work-in-TestRail)
+  * [Bug reports and work in Jira](#Bug-reports-and-work-in-Jira)
+- [Books I have read](#Books-I-have-read)
 
 ## About me
 
