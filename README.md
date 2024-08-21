@@ -121,7 +121,7 @@ An intensive course in SQL Testing.
  
 ### Bug reports and work in Jira
 
-- Several bugs found on [Demoga Shop](https://shop.demoqa.com) and reported:
+- Several bugs found on Demoga Shop and reported:
   * Bug #1. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1dgyT5_ww6n4WI8AmVKdHCJBonFPK0HHn/view?usp=share_link).
   * Bug #2. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/18IyrZroX1WYQGgwNNbZo-VqHhMT52n6u/view?usp=share_link).
   * Bug #3. Check [the screenshot of the bug report in Jira](https://drive.google.com/file/d/1KrxiIBStI_iekG6Q-RQSrSHDpgYhhCCl/view?usp=share_link).
