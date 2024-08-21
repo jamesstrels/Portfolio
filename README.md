@@ -116,7 +116,7 @@ An intensive course in SQL Testing.
 
 ### Test cases and work in TestRail
 
-- [The training webshop](https://shop.demoqa.com) was used to create test cases
+- The training webshop Demoga was used to create test cases
   * Test case for checking the checkout process. Check [the Google Sheets document here](https://docs.google.com/spreadsheets/d/1yCsiLwIoGTeuP5u-WFMtiL53596Z6hx9SoJ2HV1PxHQ/edit?usp=sharing)
  
 ### Bug reports and work in Jira
